@@ -11,17 +11,16 @@
 - [X] Fazer a sidebar navigation;
 - [X] Aprender dicas de atalho no VSCode para escrever HTML;
 - [X] Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools;
-- [ ] Desafio: Fazer a seção biblioteca do Spotify.
+- [X] Desafio: Fazer a seção biblioteca do Spotify.
+
 
 ### Aula_2
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [X] Criar todo menu lateral da página;
+- [X] Aprender os fundamentos do CSS Flexbox;
+- [X] Saber mais sobre posicionamentos no CSS;
+- [X] Desafio: Fazer o footer.
+
 
 ### Aula_3
 
