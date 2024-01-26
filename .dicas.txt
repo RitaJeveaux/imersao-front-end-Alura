@@ -1,0 +1,14 @@
+https://fontawesome.com/icons
+
+Os links para CDN são: 
+    https://use.fontawesome.com/releases/v5.15.4/css/solid.css
+    https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css
+
+https://open.spotify.com/intl-pt
+
+https://www.alura.com.br/artigos/html-css-e-js-definicoes?_gl=1*12xhizn*_ga*NTU2MzE2NDY2LjE3MDQ4MDcxNTg.*_ga_1EPWSW3PCS*MTcwNjI5Mzc1MC40LjEuMTcwNjI5NDE3NS4wLjAuMA..*_fplc*QXF6Zk9haUNrS1ZWaExSQSUyQnoxanlhT2RQWTBlbGhpbHNMTWtid05HMHZ6dWdjeUVYdngwTWNSJTJCQmp0aEhVJTJGcEZiZXdwJTJGdDUyM2FCTG1HZDhEa2lHTFlldVVqOWNOSGx2clRZVVlVMENNTzRHWk9hZCUyRlJ3SGlzbG1EaGJZUSUzRCUzRA..
+
+https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-5-atributos-elementos?_gl=1*12xhizn*_ga*NTU2MzE2NDY2LjE3MDQ4MDcxNTg.*_ga_1EPWSW3PCS*MTcwNjI5Mzc1MC40LjEuMTcwNjI5NDE3NS4wLjAuMA..*_fplc*QXF6Zk9haUNrS1ZWaExSQSUyQnoxanlhT2RQWTBlbGhpbHNMTWtid05HMHZ6dWdjeUVYdngwTWNSJTJCQmp0aEhVJTJGcEZiZXdwJTJGdDUyM2FCTG1HZDhEa2lHTFlldVVqOWNOSGx2clRZVVlVMENNTzRHWk9hZCUyRlJ3SGlzbG1EaGJZUSUzRCUzRA..
+
+https://www.alura.com.br/artigos/css?_gl=1*1h5367o*_ga*NTU2MzE2NDY2LjE3MDQ4MDcxNTg.*_ga_1EPWSW3PCS*MTcwNjI5Mzc1MC40LjEuMTcwNjI5NDE3NS4wLjAuMA..*_fplc*QXF6Zk9haUNrS1ZWaExSQSUyQnoxanlhT2RQWTBlbGhpbHNMTWtid05HMHZ6dWdjeUVYdngwTWNSJTJCQmp0aEhVJTJGcEZiZXdwJTJGdDUyM2FCTG1HZDhEa2lHTFlldVVqOWNOSGx2clRZVVlVMENNTzRHWk9hZCUyRlJ3SGlzbG1EaGJZUSUzRCUzRA..
+
