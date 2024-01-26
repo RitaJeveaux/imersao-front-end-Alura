@@ -1,6 +1,6 @@
 # Imersão Front-End Alura - Janeiro 2024
 
-## Clone do Spotify
+## Clone da Landing page do Spotify
 
 ### Aula_1
 
