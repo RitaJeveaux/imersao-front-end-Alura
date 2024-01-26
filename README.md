@@ -6,6 +6,7 @@
 
 - [X] Entrar no VSCode;
 - [X] Iniciar o GIT;
+- [X] Criar repositorio no Github;
 - [X] Revisar as diferenças entre HTML, CSS e JavaScript;
 - [X] Fazer a sidebar navigation;
 - [X] Aprender dicas de atalho no VSCode para escrever HTML;
