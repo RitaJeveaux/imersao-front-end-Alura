@@ -2,6 +2,7 @@
 
 ## Clone da Landing page do Spotify
 
+
 ### Aula_1
 
 - [X] Entrar no VSCode;
@@ -31,15 +32,25 @@
 - [X] Criar o menu superior.
 - [X] Desafio: Faça os cards de “Boa tarde” e “Navegar por todas as seções”;
 
+
 ### Aula_4
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [X] Criar os cards da página inicial;
+- [X] Aprender a usar o CSS Grid Layout;
+- [X] Utilizar media queries para responsividade;
+- [X] Instalar do Node.js;
+- [X] Introduzir o JavaScript no projeto;
+- [X] Utilizar o conceito DOM;
+- [X] Conhecer o método Promises do JavaScript.
+
+
+### Instalando json-server
+
+    $ npm i json-server -g
+
+### Executando o json watch
+
+    $ json-server --watch api-artists/artists.json --port 3000
 
 #### #ImersãoFrontEnd
 #### #Alura
