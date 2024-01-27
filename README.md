@@ -24,13 +24,12 @@
 
 ### Aula_3
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+- [X] Utilizat CSS com variáveis;
+- [X] Estruturar melhor o projeto;
+- [X] Fazer o layout flexbox;
+- [X] Aprender conceitos de responsividade;
+- [X] Criar o menu superior.
+- [X] Desafio: Faça os cards de “Boa tarde” e “Navegar por todas as seções”;
 
 ### Aula_4
 
