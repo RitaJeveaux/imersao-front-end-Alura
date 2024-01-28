@@ -41,7 +41,9 @@
 - [X] Instalar do Node.js;
 - [X] Introduzir o JavaScript no projeto;
 - [X] Utilizar o conceito DOM;
-- [X] Conhecer o método Promises do JavaScript.
+- [X] Conhecer o método Promises do JavaScript;
+- [X] Fazer mais cards baseados na página do Spotifys;
+- [X] Crie um arquivo API JSON diferente.
 
 
 ### Instalando json-server
